@@ -149,5 +149,7 @@ CREATE TABLE users (
 4. El indicador de "escribiendo" funciona en tiempo real.
 
 ---
+### NOTA IMPORTANTE ###
+- Crear un .env para la configuracion de la base de datos y tambien para la configuracion de Cloudinary
 
 ¡Buena suerte con la práctica! Si tienes dudas, revisa la documentación de [Socket.IO](https://socket.io/) y el [repositorio base](https://github.com/yanditv/socket.git).
